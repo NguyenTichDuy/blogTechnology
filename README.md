@@ -13,11 +13,26 @@ Mọi người hãy truy cập vào link http://192.168.2.60:2368/ để vào tr
 
 Để truy cập trang admin mọi người truy cập vào trang http://192.168.2.60:2368/ghost 
 
+ ![alt](https://github.com/NguyenTichDuy/blogTechnology/blob/master/firstAdmin.png)
+
   Sau đó tạo tài khoản và đăng nhập
   
+  Ví dụ sẽ sau khi tạo tài khoản sẽ được quản lí trong Staff
+ 
+  ![alt](https://github.com/NguyenTichDuy/blogTechnology/blob/master/users.png)
+
+### Chỉnh sửa nội dung
+
+Bạn có thể chỉnh sửa nội dung 
+  ![alt](https://github.com/NguyenTichDuy/blogTechnology/blob/master/custome.png)
+
   
-  
-  
+### Có thể chỉnh sửa theme
+
+  ![alt](https://github.com/NguyenTichDuy/blogTechnology/blob/master/settheme.png)
+
+### Hoặc bạn có thể thêm một số Integrations để tự động đăng tin khi đăng một bài mới hay một số tính năng khác
+  ![alt](https://github.com/NguyenTichDuy/blogTechnology/blob/master/integration.png)
   
 # Getting Help
 
